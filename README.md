@@ -16,12 +16,15 @@ This list is for developers who are looking for non-trivial quality applications
 
 ### Web Apps (frontend only)
 
-- [CircleCI](https://github.com/circleci/frontend)
-
+| Name & Source     | Tech Stack  |
+|-------------------|-------------|
+| [CircleCI](https://github.com/circleci/frontend)  | clojurescript, om, react |
 
 ### Web Apps (fullstack)
 
-- [Ghost](https://github.com/TryGhost/Ghost)
+| Name & Source     | Tech Stack  |
+|-------------------|-------------|
+| [Ghost](https://github.com/TryGhost/Ghost) | node, express, ember |
 
 ### Desktop Apps
 
@@ -30,14 +33,21 @@ This list is for developers who are looking for non-trivial quality applications
 
 ### Mobile Apps
 
-- [AnkiDroid](https://github.com/ankidroid/Anki-Android)
+
+| Name & Source     | Tech Stack  |
+|-------------------|-------------|
+| [AnkiDroid](https://github.com/ankidroid/Anki-Android) | java, androidsdk, gradle |
 
 ### Graphics Software
 
-- [Blender](http://www.blender.org/download/)
+| Name & Source     | Tech Stack  |
+|-------------------|-------------|
+| [Blender](http://www.blender.org/download/) | c, python |
 
 
 ### Games
 
-- [Oad](https://github.com/0ad/0ad)
-- [Hedgewars](https://github.com/hedgewars/hw)
+| Name & Source     | Tech Stack  |
+|-------------------|-------------|
+| [Oad](https://github.com/0ad/0ad) | c++, python |
+| [Hedgewars](https://github.com/hedgewars/hw) | c,c++, pascal, haskell |
