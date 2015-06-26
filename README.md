@@ -2,6 +2,8 @@
 
 > A curated list of awesome production grade free and open source software organized by category.
 
+This list is for developers who are looking for non-trivial quality applications they can analyze and learn from.
+
 *Inspired by Sindre Sorhus's [awesome](https://github.com/sindresorhus/awesome).*
 
 ## TOC
