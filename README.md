@@ -8,8 +8,8 @@ This list is for developers who are looking for non-trivial quality applications
 
 ## TOC
 
-- [Webapps (frontend only)](#webapps-frontend-only)
-- [Webapps (fullstack)](#webapps-fullstack)
+- [Webapps (frontend only)](#web-apps-frontend-only)
+- [Webapps (fullstack)](#web-apps-fullstack)
 - [Desktop Apps](#desktop-apps)
 - [Mobile Apps](#mobile-apps)
 - [Games](#games)
@@ -29,6 +29,9 @@ This list is for developers who are looking for non-trivial quality applications
 | Name & Source     | Tech Stack  |
 |-------------------|-------------|
 | [Ghost](https://github.com/TryGhost/Ghost) | node, express, ember |
+| [Gitlab](https://github.com/gitlabhq/gitlabhq) | ruby, rails, coffeescript |
+| [Discourse](https://github.com/discourse/discourse) | ruby, rails, ember |
+
 
 
 ### Desktop Apps
