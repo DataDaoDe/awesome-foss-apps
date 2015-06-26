@@ -19,6 +19,10 @@ This list is for developers who are looking for non-trivial quality applications
 | Name & Source     | Tech Stack  |
 |-------------------|-------------|
 | [CircleCI](https://github.com/circleci/frontend)  | clojurescript, om, react |
+| [The Guardian](https://github.com/guardian/frontend)  | play2, scala, node |
+
+
+
 
 ### Web Apps (fullstack)
 
@@ -26,23 +30,19 @@ This list is for developers who are looking for non-trivial quality applications
 |-------------------|-------------|
 | [Ghost](https://github.com/TryGhost/Ghost) | node, express, ember |
 
+
 ### Desktop Apps
-
-
-
-
-### Mobile Apps
-
-
-| Name & Source     | Tech Stack  |
-|-------------------|-------------|
-| [AnkiDroid](https://github.com/ankidroid/Anki-Android) | java, androidsdk, gradle |
-
-### Graphics Software
 
 | Name & Source     | Tech Stack  |
 |-------------------|-------------|
 | [Blender](http://www.blender.org/download/) | c, python |
+
+
+### Mobile Apps
+
+| Name & Source     | Tech Stack  |
+|-------------------|-------------|
+| [AnkiDroid](https://github.com/ankidroid/Anki-Android) | java, androidsdk, gradle |
 
 
 ### Games
