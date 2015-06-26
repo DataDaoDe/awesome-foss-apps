@@ -22,15 +22,18 @@ This list is for developers who are looking for non-trivial quality applications
 ### Web Apps (fullstack)
 
 - [Ghost](https://github.com/TryGhost/Ghost)
-- [Mailpile](https://github.com/mailpile/Mailpile)
 
 ### Desktop Apps
 
 
+
+
 ### Mobile Apps
 
+- [AnkiDroid](https://github.com/ankidroid/Anki-Android)
 
 ### Graphics Software
+
 - [Blender](http://www.blender.org/download/)
 
 
