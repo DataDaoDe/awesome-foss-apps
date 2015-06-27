@@ -31,6 +31,8 @@ This list is for developers who are looking for non-trivial quality applications
 | [Ghost](https://github.com/TryGhost/Ghost) | node, express, ember |
 | [Gitlab](https://github.com/gitlabhq/gitlabhq) | ruby, rails, coffeescript |
 | [Discourse](https://github.com/discourse/discourse) | ruby, rails, ember |
+| [Reddit](https://github.com/reddit/reddit) | python, node, rabbitmq, postgresql |
+| [Taiga](https://github.com/taigaio) | python, coffeescript, angular |
 
 
 
