@@ -14,49 +14,112 @@ This list is for developers who are looking for non-trivial quality applications
 - [Mobile Apps](#mobile-apps)
 - [Games](#games)
 
+<br />
 ### Web Apps (frontend only)
+----
 
-| Name & Source     | Tech Stack  |
-|-------------------|-------------|
-| [CircleCI](https://github.com/circleci/frontend)  | clojurescript, om, react |
-| [The Guardian](https://github.com/guardian/frontend)  | play2, scala, node |
+##### [CircleCI](https://github.com/circleci/frontend)
+
+* clojurescript, om, react
+* Eclipse Public License
+
+> CircleCI provides a continuous integration and deployment platform. The frontend is an impressive example of a large application built with the immutable data structures of clojurescript. The frontend integrates with pusher, intercom, d3, and google analytics and has a great example of navigation routing and communication via realtime events, websockets, and backend api servers. Its test suite is not that extensive but does provide a good example of how to test clojurescript/om apps using karma.
 
 
 
+##### [The Guardian](https://github.com/guardian/frontend) 
 
+* play2, scala, node
+* Apache 2.0 License
+
+> The guardian is a news site with subscriptions, signin, search, an admin interface and a series of middleman scala apps that handle communication between the static frontends and backend apis. Its very fast and has a comprehensive test suite plus great examples of how to optimize large traditional websites for speed.
+
+<br/>
 ### Web Apps (fullstack)
+----
 
-| Name & Source     | Tech Stack  |
-|-------------------|-------------|
-| [Ghost](https://github.com/TryGhost/Ghost) | node, express, ember |
-| [Gitlab](https://github.com/gitlabhq/gitlabhq) | ruby, rails, coffeescript |
-| [Discourse](https://github.com/discourse/discourse) | ruby, rails, ember |
-| [Reddit](https://github.com/reddit/reddit) | python, node, rabbitmq, postgresql |
-| [Taiga](https://github.com/taigaio) | python, coffeescript, angular |
+##### [Ghost](https://github.com/TryGhost/Ghost)
+
+* node, express, ember
+* MIT License
+
+> Ghost provides a simple publishing platform for bloggers. The code contains an emberjs client and node server backend that handle authorization, role management, tagging, blog posting, data persistence, and most things you'd expect from a quality blogging platform. The only thing that Ghost doesn't handle is i18n. It also contains a comprehensive test suite with both integration and unit tests that hit the whole ember/node stack.
 
 
 
+##### [Gitlab](https://github.com/gitlabhq/gitlabhq)
+
+* ruby, rails, coffescript, redis, sidekiq, 
+* MIT License
+
+> Gitlab is a code collaboration tool. It is used by more than 100,000 organizations. It has just about everything you could imagine in a webapp, user management, user roles, oauth, i18n, many modules designed for integrating with third-parties, deep git integration, and an extensive asynchronous task system using Sidekiq. It has an exemplary test suite using cucumber and rspec.
+
+
+
+#### [Discourse](https://github.com/discourse/discourse)
+
+* ruby, rails, ember
+* GPLv2 License
+
+> Discourse is a discussion platform or a modern take on the webforum. It has a very modular system built on top of rails and contains great examples of how to build an interactive frontend in ember within a rails application. It has an admin interface, signup/signin with Oauth for Google, Facebook, Twitter, Yahoo, and Github. It has extensive i18n, real time notifications, a plugin ecosystem, is SEO optimized, and is designed for tablet and mobile devices.
+
+#### [Reddit](https://github.com/reddit)
+
+* python, pylons, node, react, rabbitmq, postgresql
+* Common Public Attribution License Version 1.0
+
+> Reddit is a news platform for what's new and popular on the web. It is built in python and integrates with a lot of third party services: rabbitmq, memcached, cassandra, solr, and postgresql to name a few. The code provides a good example of a large pylons project, and shines when it comes to the code that integrates with many other services.
+
+#### [Taiga](https://github.com/taigaio)
+
+* python3, django, coffeescript, angular
+* GNU Affero License 
+
+> Taiga is a project management tool. It is an incredible example of a modular architecture. Its interface is clean, very well-designed, responsive, and fast, and the modern backend code written in python3 is a great example of a well written django app. It also has an extensive test suite with both integration and unit tests using pytest.
+
+<br/>
 ### Desktop Apps
+----
 
-| Name & Source     | Tech Stack  |
-|-------------------|-------------|
-| [Blender](http://www.blender.org/download/) | c, python |
-| [Atom](https://github.com/atom/atom) | coffeescript, electron, node |
+##### [Blender](http://www.blender.org/download/)
+
+* c, c++, python
+* GPLv2 License
+
+> Blender is 3D Graphic Software that can visually compete with Maya and 3DS Max. The end product is an amazing example of a cross-platform 3D Tooling piece of software. It is a very mature project having been in development since 1994. It has an embedded python scripting engine, a game logic engine, and is loaded with implementations of 3d manipulation, rendering, and compositing algorithms.
 
 
+##### [Atom](https://github.com/atom/atom)
+
+* coffeescript, electron, node
+* MIT License
+
+> Atom is a hackable text editor. Its built on top of electron and is a good example of integrating libchromium, nodejs, and web technologies into a a cross platform runnable binary. It also contains an exemplary test suite for electron apps.
+
+<br/>
 ### Mobile Apps
+----
 
-| Name & Source     | Tech Stack  |
-|-------------------|-------------|
-| [AnkiDroid](https://github.com/ankidroid/Anki-Android) | java, androidsdk, gradle |
+*still searching*
 
-
+<br/>
 ### Games
+----
 
-| Name & Source     | Tech Stack  |
-|-------------------|-------------|
-| [Oad](https://github.com/0ad/0ad) | c++, python |
-| [Hedgewars](https://github.com/hedgewars/hw) | c,c++, pascal, haskell |
+##### [Oad](https://github.com/0ad/0ad)
+
+* c++, python
+* GPLv2 License
+
+> O A.D is a cross-platform real-time strategy game of ancient warfare. Every aspect of the game's implementation is modern and impressive - from the AI to the graphics. It also has an embedded SpiderMonkey scripting engine, which is a great example for adding js scriptability to an existing cpp project.
+
+
+##### [Hedgewars](https://github.com/hedgewars/hw)
+
+* c, c++, pascal, haskell
+* GPLv2 License
+
+> Hedgewars is a 2D turn-based strategy game like worms but with hedgehogs. Its graphics, animation, and gameplay can compete with worms on every level. The game server is an impressive real-world example of Haskell and the frontend provides a clean interface between QT and the backend game.
 
 
 ## License
