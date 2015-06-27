@@ -23,7 +23,7 @@ This list is for developers who are looking for non-trivial quality applications
 * clojurescript, om, react
 * Eclipse Public License
 
-> CircleCI provides a continuous integration and deployment platform. The frontend is an impressive example of a large application built with the immutable data structures of clojurescript. The frontend integrates with pusher, intercom, d3, and google analytics and has a great example of navigation routing and communication via realtime events, websockets, and backend api servers. Its test suite is not that extensive but does provide a good example of how to test clojurescript/om apps using karma.
+> CircleCI provides a continuous integration and deployment platform. The frontend is an impressive example of a large application built with the immutable data structures of clojurescript. The frontend integrates with pusher, intercom, d3, and google analytics and has a great example of navigation routing and communication via real-time events, websockets, and backend API servers. Its test suite is not that extensive but does provide a good example of how to test clojurescript/om apps using karma.
 
 
 
@@ -32,7 +32,7 @@ This list is for developers who are looking for non-trivial quality applications
 * play2, scala, node
 * Apache 2.0 License
 
-> The guardian is a news site with subscriptions, signin, search, an admin interface and a series of middleman scala apps that handle communication between the static frontends and backend apis. Its very fast and has a comprehensive test suite plus great examples of how to optimize large traditional websites for speed.
+> The guardian is a news site with subscriptions, sign in, search, an admin interface and a series of middleman scala apps that handle communication between the static frontends and backend APIs. Its very fast and has a comprehensive test suite plus great examples of how to optimize large traditional websites for speed.
 
 <br/>
 ### Web Apps (fullstack)
@@ -52,7 +52,7 @@ This list is for developers who are looking for non-trivial quality applications
 * ruby, rails, coffescript, redis, sidekiq, 
 * MIT License
 
-> Gitlab is a code collaboration tool. It is used by more than 100,000 organizations. It has just about everything you could imagine in a webapp, user management, user roles, oauth, i18n, many modules designed for integrating with third-parties, deep git integration, and an extensive asynchronous task system using Sidekiq. It has an exemplary test suite using cucumber and rspec.
+> Gitlab is a code collaboration tool. It is used by more than 100,000 organizations. It has just about everything you could imagine in a webapp, user management, user roles, OAuth, i18n, many modules designed for integrating with third-parties, deep git integration, and an extensive asynchronous task system using Sidekiq. It has an exemplary test suite using cucumber and rspec.
 
 
 
@@ -61,14 +61,14 @@ This list is for developers who are looking for non-trivial quality applications
 * ruby, rails, ember
 * GPLv2 License
 
-> Discourse is a discussion platform or a modern take on the webforum. It has a very modular system built on top of rails and contains great examples of how to build an interactive frontend in ember within a rails application. It has an admin interface, signup/signin with Oauth for Google, Facebook, Twitter, Yahoo, and Github. It has extensive i18n, real time notifications, a plugin ecosystem, is SEO optimized, and is designed for tablet and mobile devices.
+> Discourse is a discussion platform or a modern take on the web forum. It has a very modular system built on top of rails and contains great examples of how to build an interactive frontend in ember within a rails application. It has an admin interface, signup/sign-in with Oauth for Google, Facebook, Twitter, Yahoo, and Github. It has extensive i18n, real time notifications, a plugin ecosystem, is SEO optimized, and is designed for tablet and mobile devices.
 
 #### [Reddit](https://github.com/reddit)
 
 * python, pylons, node, react, rabbitmq, postgresql
 * Common Public Attribution License Version 1.0
 
-> Reddit is a news platform for what's new and popular on the web. It is built in python and integrates with a lot of third party services: rabbitmq, memcached, cassandra, solr, and postgresql to name a few. The code provides a good example of a large pylons project, and shines when it comes to the code that integrates with many other services.
+> Reddit is a news platform for what's new and popular on the web. It is built in python and integrates with a lot of third party services: rabbitmq, memcached, cassandra, solr, and postgresql to name a few. The code provides a good example of a large pylons project and shines when it comes to the code that integrates with many other services.
 
 #### [Taiga](https://github.com/taigaio)
 
@@ -86,7 +86,7 @@ This list is for developers who are looking for non-trivial quality applications
 * c, c++, python
 * GPLv2 License
 
-> Blender is 3D Graphic Software that can visually compete with Maya and 3DS Max. The end product is an amazing example of a cross-platform 3D Tooling piece of software. It is a very mature project having been in development since 1994. It has an embedded python scripting engine, a game logic engine, and is loaded with implementations of 3d manipulation, rendering, and compositing algorithms.
+> Blender is 3D Graphic Software that can visually compete with Maya and 3DS Max. The end product is an amazing example of a cross-platform 3D Tooling piece of software. It is a very mature project having been in development since 1994. It has an embedded python scripting engine, a game logic engine and is loaded with implementations of 3d manipulation, rendering, and compositing algorithms.
 
 
 ##### [Atom](https://github.com/atom/atom)
@@ -94,7 +94,7 @@ This list is for developers who are looking for non-trivial quality applications
 * coffeescript, electron, node
 * MIT License
 
-> Atom is a hackable text editor. Its built on top of electron and is a good example of integrating libchromium, nodejs, and web technologies into a a cross platform runnable binary. It also contains an exemplary test suite for electron apps.
+> Atom is a hackable text editor. Its built on top of electron and is a good example of integrating libchromium, nodejs, and web technologies into a cross platform runnable binary. It also contains an exemplary test suite for electron apps.
 
 <br/>
 ### Mobile Apps
