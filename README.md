@@ -56,21 +56,21 @@ This list is for developers who are looking for non-trivial quality applications
 
 
 
-#### [Discourse](https://github.com/discourse/discourse)
+##### [Discourse](https://github.com/discourse/discourse)
 
 * ruby, rails, ember
 * GPLv2 License
 
 > Discourse is a discussion platform or a modern take on the web forum. It has a very modular system built on top of rails and contains great examples of how to build an interactive frontend in ember within a rails application. It has an admin interface, signup/sign-in with Oauth for Google, Facebook, Twitter, Yahoo, and Github. It has extensive i18n, real time notifications, a plugin ecosystem, is SEO optimized, and is designed for tablet and mobile devices.
 
-#### [Reddit](https://github.com/reddit)
+##### [Reddit](https://github.com/reddit)
 
 * python, pylons, node, react, rabbitmq, postgresql
 * Common Public Attribution License Version 1.0
 
 > Reddit is a news platform for what's new and popular on the web. It is built in python and integrates with a lot of third party services: rabbitmq, memcached, cassandra, solr, and postgresql to name a few. The code provides a good example of a large pylons project and shines when it comes to the code that integrates with many other services.
 
-#### [Taiga](https://github.com/taigaio)
+##### [Taiga](https://github.com/taigaio)
 
 * python3, django, coffeescript, angular
 * GNU Affero License 
@@ -94,7 +94,7 @@ This list is for developers who are looking for non-trivial quality applications
 * coffeescript, electron, node
 * MIT License
 
-> Atom is a hackable text editor. Its built on top of electron and is a good example of integrating libchromium, nodejs, and web technologies into a cross platform runnable binary. It also contains an exemplary test suite for electron apps.
+> Atom is a hackable text editor. Its built on top of electron and is a good example of integrating libchromium, nodejs, and web technologies into a cross-platform runnable binary. It also contains an exemplary test suite for electron apps.
 
 <br/>
 ### Mobile Apps
