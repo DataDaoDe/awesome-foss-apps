@@ -57,3 +57,11 @@ This list is for developers who are looking for non-trivial quality applications
 |-------------------|-------------|
 | [Oad](https://github.com/0ad/0ad) | c++, python |
 | [Hedgewars](https://github.com/hedgewars/hw) | c,c++, pascal, haskell |
+
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, John Faucett has waived all copyright and related or neighboring rights to this work.
+
