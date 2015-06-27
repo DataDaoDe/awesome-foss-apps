@@ -41,6 +41,7 @@ This list is for developers who are looking for non-trivial quality applications
 | Name & Source     | Tech Stack  |
 |-------------------|-------------|
 | [Blender](http://www.blender.org/download/) | c, python |
+| [Atom](https://github.com/atom/atom) | coffeescript, electron, node |
 
 
 ### Mobile Apps
