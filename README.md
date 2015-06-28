@@ -77,6 +77,14 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Taiga is a project management tool. It is an incredible example of a modular architecture. Its interface is clean, very well-designed, responsive, and fast, and the modern backend code written in python3 is a great example of a well written django app. It also has an extensive test suite with both integration and unit tests using pytest.
 
+
+##### [Travis CI](https://github.com/travis-ci)
+
+* ruby, rails, sinatra, rabbitmq, ember
+* MIT License
+
+> Travis CI is a continutous integration and deployment system. What's great about Travis is its modular architecture, every component of this large distributed system is split up by its main function. From worker management, rails backend, emberjs frontend to yaml configuration parser, each is split up into there own repositories.
+
 <br/>
 ### Desktop Apps
 ----
