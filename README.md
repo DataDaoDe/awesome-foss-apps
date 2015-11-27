@@ -114,12 +114,12 @@ This list is for developers who are looking for non-trivial quality applications
 ### Games
 ----
 
-##### [Oad](https://github.com/0ad/0ad)
+##### [0ad](https://github.com/0ad/0ad)
 
 * c++, python
 * GPLv2 License
 
-> O A.D is a cross-platform real-time strategy game of ancient warfare. Every aspect of the game's implementation is modern and impressive - from the AI to the graphics. It also has an embedded SpiderMonkey scripting engine, which is a great example for adding js scriptability to an existing cpp project.
+> 0 A.D is a cross-platform real-time strategy game of ancient warfare. Every aspect of the game's implementation is modern and impressive - from the AI to the graphics. It also has an embedded SpiderMonkey scripting engine, which is a great example for adding js scriptability to an existing cpp project.
 
 
 ##### [Hedgewars](https://github.com/hedgewars/hw)
