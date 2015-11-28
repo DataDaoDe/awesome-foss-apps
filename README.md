@@ -130,6 +130,14 @@ This list is for developers who are looking for non-trivial quality applications
 > Hedgewars is a 2D turn-based strategy game like worms but with hedgehogs. Its graphics, animation, and gameplay can compete with worms on every level. The game server is an impressive real-world example of Haskell and the frontend provides a clean interface between QT and the backend game.
 
 
+##### [Wesnoth](https://github.com/wesnoth/wesnoth)
+
+* c, c++, lua
+* GPLv2 License
+
+> The Battle for Wesnoth is a turn-based tactical strategy game with a high fantasy theme. It features single player and online multiplayer combat. Its GUI and gameplay graphics are impressive as well as its multi-platform support (it even builds on NaCL). It has clean, well-coded examples of pretty much everything a game developer would want to know, from a an embedded lua scripting engine, to a dialog and GUI system, to a c++ test suite and cross-platform builds.
+
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
