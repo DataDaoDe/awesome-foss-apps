@@ -25,9 +25,16 @@ This list is for developers who are looking for non-trivial quality applications
 
 > CircleCI provides a continuous integration and deployment platform. The frontend is an impressive example of a large application built with the immutable data structures of clojurescript. The frontend integrates with pusher, intercom, d3, and google analytics and has a great example of navigation routing and communication via real-time events, websockets, and backend API servers. Its test suite is not that extensive but does provide a good example of how to test clojurescript/om apps using karma.
 
+##### [Precursor App](https://github.com/PrecursorApp/precursor)
+
+* clojurescript, om, react
+* Eclipse Public License
+
+> Precursor is a highly interactive prototyping webapp. Its frontend is built from the ground up with clojurescript. The project has a simple enough routing and event passing system such that newer clojurescript developers could easily understand how routing in clojurescript applications can work. It is also full of many examples of how to build a component based frontend architecture that is part of an interactive graphics application i.e. where many components manipulate the HTML5 canvas or work with HTML5 APIs. 
 
 
-##### [The Guardian](https://github.com/guardian/frontend) 
+
+##### [The Guardian](https://github.com/guardian/frontend)
 
 * play2, scala, node
 * Apache 2.0 License
@@ -49,7 +56,7 @@ This list is for developers who are looking for non-trivial quality applications
 
 ##### [Gitlab](https://github.com/gitlabhq/gitlabhq)
 
-* ruby, rails, coffescript, redis, sidekiq, 
+* ruby, rails, coffescript, redis, sidekiq,
 * MIT License
 
 > Gitlab is a code collaboration tool. It is used by more than 100,000 organizations. It has just about everything you could imagine in a webapp, user management, user roles, OAuth, i18n, many modules designed for integrating with third-parties, deep git integration, and an extensive asynchronous task system using Sidekiq. It has an exemplary test suite using cucumber and rspec.
@@ -73,7 +80,7 @@ This list is for developers who are looking for non-trivial quality applications
 ##### [Taiga](https://github.com/taigaio)
 
 * python3, django, coffeescript, angular
-* GNU Affero License 
+* GNU Affero License
 
 > Taiga is a project management tool. It is an incredible example of a modular architecture. Its interface is clean, very well-designed, responsive, and fast, and the modern backend code written in python3 is a great example of a well written django app. It also has an extensive test suite with both integration and unit tests using pytest.
 
@@ -143,4 +150,3 @@ This list is for developers who are looking for non-trivial quality applications
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, John Faucett has waived all copyright and related or neighboring rights to this work.
-
