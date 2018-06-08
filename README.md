@@ -18,6 +18,13 @@ This list is for developers who are looking for non-trivial quality applications
 ## Web Apps (frontend only)
 ----
 
+### [Codesandbox](https://github.com/CompuIves/codesandbox-client)
+
+* react, ngix, phoenix
+* GNU General Public License
+
+> Codesandbox is an online IDE for web developers to quickly prototype and implement frontend applications using modern javascript frameworks like Vue, Preact, React etc Or even vanilla javascript.  
+
 ### [CircleCI](https://github.com/circleci/frontend)
 
 * clojurescript, om, react
