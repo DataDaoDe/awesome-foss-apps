@@ -20,7 +20,7 @@ This list is for developers who are looking for non-trivial quality applications
 
 ### [Codesandbox](https://github.com/CompuIves/codesandbox-client)
 
-* react, ngix, phoenix
+* react, nginx, phoenix
 * GNU General Public License
 
 > Codesandbox is an online IDE for web developers to quickly prototype and implement frontend applications using modern javascript frameworks like Vue, Preact, React etc Or even vanilla javascript.  
