@@ -99,6 +99,14 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Filestash is a web based file manager that supports a range of protocols and platforms: FTP, SFTP, S3, Minio, Git, WebDAV, Backblaze, Dropbox, Google Drive, LDAP, CalDAV, CardDAV.
 
+### [Dnote](https://github.com/dnote/dnote)
+
+* golang, react, typescript
+* GPLv3 License, AGPLv3 License
+
+> Dnote is a free and open source command line note-taking software that supports a scalable data synchronization among an unlimited number of devices and a mobile-first web interface that can also be installed as a Progressive Web App on mobile devices.
+
+
 ## Desktop Apps
 ----
 
