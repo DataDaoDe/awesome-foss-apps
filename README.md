@@ -106,6 +106,12 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Dnote is a free and open source command line note-taking software that supports a scalable data synchronization among an unlimited number of devices and a mobile-first web interface that can also be installed as a Progressive Web App on mobile devices.
 
+### [Healthchecks](https://github.com/healthchecks/healthchecks)
+
+* python, django, postgresql
+* BSD License
+
+> Healthchecks is a cron job monitoring service. It listens for HTTP requests and email messages ("pings") from your cron jobs and scheduled tasks ("checks"). When a ping does not arrive on time, Healthchecks sends out alerts.
 
 ## Desktop Apps
 ----
