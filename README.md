@@ -131,6 +131,13 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Atom is a hackable text editor. Its built on top of electron and is a good example of integrating libchromium, nodejs, and web technologies into a cross-platform runnable binary. It also contains an exemplary test suite for electron apps.
 
+### [Daytona](https://github.com/daytonaio/daytona)
+
+* go
+* Apache 2.0 License
+
+> Daytona is a radically simple open source development environment manager. It automates the entire process of setting up development environments; provisioning the instance, interpreting and applying the configuration, setting up prebuilds, establishing a secure VPN connection, securely connecting your local or a Web IDE, and assigning a fully qualified domain name to the development environment for easy sharing and collaboration.
+
 ### Mobile Apps
 ----
 
