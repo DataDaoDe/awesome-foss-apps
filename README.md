@@ -141,7 +141,12 @@ This list is for developers who are looking for non-trivial quality applications
 ### Mobile Apps
 ----
 
-*still searching*
+### [Pilgrim](https://github.com/walktalkmeditate/pilgrim-ios)
+
+* swift, swiftui, combine, coredata, whisperkit, cocoapods
+* GPLv3 License
+
+> Pilgrim is a privacy-first walking and meditation companion for iOS. It tracks walks with GPS, records voice reflections with on-device ML transcription (WhisperKit), plays guided meditations, and exports data as .pilgrim packages or GPX — all without accounts, servers, or tracking. The codebase demonstrates production-grade Swift architecture: coordinator pattern, MVVM with Combine, a CoreStore persistence layer with 10+ chained schema migrations, a modular WalkBuilder component system, Live Activities on the lock screen, and a comprehensive demo mode for automated screenshots. Available on the [App Store](https://apps.apple.com/app/pilgrim-mindful-walking/id6760921056).
 
 ### Games
 ----
