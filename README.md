@@ -164,6 +164,7 @@ This list is for developers who are looking for non-trivial quality applications
 
 * c, c++, lua
 * GPLv2 License
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 > The Battle for Wesnoth is a turn-based tactical strategy game with a high fantasy theme. It features single player and online multiplayer combat. Its GUI and gameplay graphics are impressive as well as its multi-platform support (it even builds on NaCL). It has clean, well-coded examples of pretty much everything a game developer would want to know, from a an embedded lua scripting engine, to a dialog and GUI system, to a c++ test suite and cross-platform builds.
 
