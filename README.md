@@ -143,7 +143,7 @@ This list is for developers who are looking for non-trivial quality applications
 * python, gtk4, ffmpeg, imagemagick
 * GPLv3 License
 
-> File Converter for Linux is a right-click file converter that integrates with five Linux file managers: Nautilus, Nemo, Dolphin, Thunar and PCManFM. It wraps FFmpeg and ImageMagick behind a GTK 4 settings UI with YAML-backed presets, supports hardware-accelerated video encoding via NVENC and VAAPI, and ships as a PyInstaller standalone binary. The codebase is a practical example of file manager extension integration across multiple desktop environments, Python gettext i18n with 29 compiled locale catalogs, and cross-distro installer scripting.
+> File Converter for Linux is the official Linux port of [File Converter](https://github.com/Tichau/FileConverter) by Adrien Allard (Tichau), a widely used Windows right-click file conversion tool. It integrates with five Linux file managers: Nautilus, Nemo, Dolphin, Thunar and PCManFM, wrapping FFmpeg and ImageMagick behind a GTK 4 settings UI with YAML-backed presets. It supports hardware-accelerated video encoding via NVENC and VAAPI, and ships as a PyInstaller standalone binary. The codebase is a practical example of file manager extension integration across multiple desktop environments, Python gettext i18n with 29 compiled locale catalogs, and cross-distro installer scripting.
 
 ### Mobile Apps
 ----
