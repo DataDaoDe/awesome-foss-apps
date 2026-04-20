@@ -138,6 +138,13 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Daytona is a radically simple open source development environment manager. It automates the entire process of setting up development environments; provisioning the instance, interpreting and applying the configuration, setting up prebuilds, establishing a secure VPN connection, securely connecting your local or a Web IDE, and assigning a fully qualified domain name to the development environment for easy sharing and collaboration.
 
+### [File Converter for Linux](https://github.com/AlexDevFlow/Media-Converter)
+
+* python, gtk4, ffmpeg, imagemagick
+* GPLv3 License
+
+> File Converter for Linux is the official Linux port of [File Converter](https://github.com/Tichau/FileConverter) by Adrien Allard (Tichau), a widely used Windows right-click file conversion tool. It integrates with five Linux file managers: Nautilus, Nemo, Dolphin, Thunar and PCManFM, wrapping FFmpeg and ImageMagick behind a GTK 4 settings UI with YAML-backed presets. It supports hardware-accelerated video encoding via NVENC and VAAPI, and ships as a PyInstaller standalone binary. The codebase is a practical example of file manager extension integration across multiple desktop environments, Python gettext i18n with 29 compiled locale catalogs, and cross-distro installer scripting.
+
 ### Mobile Apps
 ----
 
