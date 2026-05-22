@@ -138,6 +138,13 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Daytona is a radically simple open source development environment manager. It automates the entire process of setting up development environments; provisioning the instance, interpreting and applying the configuration, setting up prebuilds, establishing a secure VPN connection, securely connecting your local or a Web IDE, and assigning a fully qualified domain name to the development environment for easy sharing and collaboration.
 
+### [WhisperSubTranslate](https://github.com/Blue-B/WhisperSubTranslate)
+
+* javascript, electron, node, whisper.cpp, node-llama-cpp
+* GPL-3.0 License
+
+> WhisperSubTranslate is a desktop app that turns any video file into translated subtitles. Local speech-to-text via whisper.cpp (CUDA/CPU), translation via a local LLM (HY-MT 1.8B/7B GGUF, fully offline) or DeepL/OpenAI/Gemini/MyMemory with the user's own keys. Supports 14 target languages and 100+ source languages, with a batch queue and persistent file-based job history. No telemetry.
+
 ### Mobile Apps
 ----
 
