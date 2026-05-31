@@ -113,6 +113,13 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Healthchecks is a cron job monitoring service. It listens for HTTP requests and email messages ("pings") from your cron jobs and scheduled tasks ("checks"). When a ping does not arrive on time, Healthchecks sends out alerts.
 
+### [Longevity World Cup](https://github.com/nopara73/LongevityWorldCup)
+
+* c#, asp.net core, javascript
+* MIT License
+
+> Longevity World Cup is a live longevity sport platform with athlete profiles, biological-age calculators, public leaderboards, static asset/versioning middleware, and a documented no-auth JSON/OpenAPI surface. It is a useful example of a focused ASP.NET Core web application that mixes public data publishing, calculator workflows, generated media assets, and browser-facing ranking logic.
+
 ## Desktop Apps
 ----
 
