@@ -56,6 +56,13 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Ghost provides a simple publishing platform for bloggers. The code contains an emberjs client and node server backend that handle authorization, role management, tagging, blog posting, data persistence, and most things you'd expect from a quality blogging platform. The only thing that Ghost doesn't handle is i18n. It also contains a comprehensive test suite with both integration and unit tests that hit the whole ember/node stack.
 
+### [UnfoldCMS](https://github.com/hpakdaman/unfoldcms)
+
+* php, laravel, react, mysql, inertia, shadcn/ui
+* Source-available License
+
+> UnfoldCMS is a self-hosted content management system built on PHP 8.3 and Laravel 12 with a React 19 admin UI powered by shadcn/ui and Inertia.js. Ships with a full headless REST API v1 (42 endpoints) for Next.js, Astro, SvelteKit, and Nuxt frontends, HMAC-signed outgoing webhooks, media management, and multi-user roles. One-time pricing — no subscriptions.
+
 ### [Gitlab](https://github.com/gitlabhq/gitlabhq)
 
 * ruby, rails, coffescript, redis, sidekiq,
