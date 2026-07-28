@@ -166,6 +166,13 @@ This list is for developers who are looking for non-trivial quality applications
 * GPLv2 License
 
 > The Battle for Wesnoth is a turn-based tactical strategy game with a high fantasy theme. It features single player and online multiplayer combat. Its GUI and gameplay graphics are impressive as well as its multi-platform support (it even builds on NaCL). It has clean, well-coded examples of pretty much everything a game developer would want to know, from a an embedded lua scripting engine, to a dialog and GUI system, to a c++ test suite and cross-platform builds.
+### [Yap](https://github.com/FrigadeHQ/yap)
+
+* swift, macos
+* MIT License
+
+> Yap is a menu bar app for on-device voice dictation on macOS. Set a hotkey, talk, and the text is pasted into whatever field you were typing in. It runs offline in native Swift with no model to download and no network code.
+
 
 
 ## License
