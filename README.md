@@ -106,6 +106,13 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Dnote is a free and open source command line note-taking software that supports a scalable data synchronization among an unlimited number of devices and a mobile-first web interface that can also be installed as a Progressive Web App on mobile devices.
 
+### [Persona](https://github.com/jayamitkatariya/personacli)
+
+* typescript, react, hono
+* MIT License
+
+> Persona is a local-first personal workspace with notes, tasks, and AI chat. Plain markdown files, no accounts, no cloud. Runs in your browser on your machine.
+
 ### [Healthchecks](https://github.com/healthchecks/healthchecks)
 
 * python, django, postgresql
