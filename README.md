@@ -138,6 +138,13 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Daytona is a radically simple open source development environment manager. It automates the entire process of setting up development environments; provisioning the instance, interpreting and applying the configuration, setting up prebuilds, establishing a secure VPN connection, securely connecting your local or a Web IDE, and assigning a fully qualified domain name to the development environment for easy sharing and collaboration.
 
+### [Codex Quota Overlay](https://github.com/cpys/codex-quota-overlay)
+
+* Electron, Node.js, TypeScript, C++
+* MIT License
+
+> Codex Quota Overlay is a privacy-friendly Windows desktop companion that displays current Codex quota, reset timing, pace, forecasts, history, and recent activity. It keeps quota data local by default and includes a local dashboard for inspecting the reported rate-limit windows.
+
 ### Mobile Apps
 ----
 
