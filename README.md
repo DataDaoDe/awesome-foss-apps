@@ -138,6 +138,13 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Daytona is a radically simple open source development environment manager. It automates the entire process of setting up development environments; provisioning the instance, interpreting and applying the configuration, setting up prebuilds, establishing a secure VPN connection, securely connecting your local or a Web IDE, and assigning a fully qualified domain name to the development environment for easy sharing and collaboration.
 
+### [Awayra](https://github.com/AWAYRA/AWAYRA-WPF)
+
+* C#, .NET 10, WPF
+* GPL-3.0-only License
+
+> Awayra is a free, offline Windows eye-rest and movement reminder with independent schedules, guided overlays, optional sounds, work hours, idle reset and snooze. Its separate core and Windows UI projects, scheduling tests, local persistence and Windows integration provide a desktop application example for C# developers. [Website, screenshots and setup guide](https://awayra.pages.dev/).
+
 ### Mobile Apps
 ----
 
