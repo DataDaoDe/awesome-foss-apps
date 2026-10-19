@@ -138,6 +138,13 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Daytona is a radically simple open source development environment manager. It automates the entire process of setting up development environments; provisioning the instance, interpreting and applying the configuration, setting up prebuilds, establishing a secure VPN connection, securely connecting your local or a Web IDE, and assigning a fully qualified domain name to the development environment for easy sharing and collaboration.
 
+### [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)
+
+* vue, electron, typescript, node
+* GPLv3 License (Community Edition)
+
+> Beekeeper Studio is a modern and easy to use database manager for PostgreSQL, MySQL, SQLite, SQL Server, and many more. It's a good example of a large, cross-platform Vue + Electron app built in TypeScript: a single UI sits on top of a pluggable driver layer that supports many different database engines, with query editing, table editing, and SSH tunneling all handled in one codebase.
+
 ### Mobile Apps
 ----
 
