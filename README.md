@@ -138,6 +138,13 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Daytona is a radically simple open source development environment manager. It automates the entire process of setting up development environments; provisioning the instance, interpreting and applying the configuration, setting up prebuilds, establishing a secure VPN connection, securely connecting your local or a Web IDE, and assigning a fully qualified domain name to the development environment for easy sharing and collaboration.
 
+### [Glim](https://github.com/NeoPanic/Glim)
+
+* rust, gpui, swift
+* MIT License
+
+> Glim is a macOS file viewer for Markdown, source code, Git diffs, PDFs, and ebooks. Its three Rust crates separate UI, filesystem/Git services, and I/O-free core models; Swift bridges embed native document previews. The architecture offers an example of combining GPUI with AppKit while keeping file loading off the render path.
+
 ### Mobile Apps
 ----
 
