@@ -138,6 +138,13 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Daytona is a radically simple open source development environment manager. It automates the entire process of setting up development environments; provisioning the instance, interpreting and applying the configuration, setting up prebuilds, establishing a secure VPN connection, securely connecting your local or a Web IDE, and assigning a fully qualified domain name to the development environment for easy sharing and collaboration.
 
+### [MAD Designer](https://github.com/mthomason/MAD)
+
+* objective-c, c, sqlite, postgresql, mysql, freetds
+* Apache 2.0 License
+
+> MAD (Mobile Analytics Document) is a native macOS (`AppKit`) and iOS (`UIKit`) business intelligence application and portable report engine. It is structured across fourteen modular Objective-C frameworks covering custom data structures (graphs, trees), a SQLite-backed document store, database drivers over `libpq`, `libmariadb`, `FreeTDS`, and `sqlite3`, an ad-hoc visual SQL query builder, and a banded report layout designer. Eleven of the frameworks also compile headlessly on Linux against `libobjc2` and GNUstep with a 1,303-test verification suite.
+
 ### Mobile Apps
 ----
 
