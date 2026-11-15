@@ -173,3 +173,4 @@ This list is for developers who are looking for non-trivial quality applications
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, John Faucett has waived all copyright and related or neighboring rights to this work.
+- [CleanSlate](https://github.com/devshield-tech/botox-android) - Remotely wipe your Android device if it is lost or stolen.
